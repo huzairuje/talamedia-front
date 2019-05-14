@@ -1,6 +1,6 @@
-# tmfront
+# talamedia frontend
 
-> My delightful Nuxt.js project
+> Talamedia Frontend Portal
 
 ## Build Setup
 

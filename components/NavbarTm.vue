@@ -24,22 +24,16 @@
             </a>
           </li>
           <li class="nav-item">
-            <nuxt-link to="/info-unpad" class="nav-link">Info Unpad</nuxt-link>
+            <nuxt-link to="/info-kampus" class="nav-link">Info Kampus</nuxt-link>
           </li>
           <li class="nav-item">
-            <nuxt-link to="/info-itb" class="nav-link">Info ITB</nuxt-link>
-          </li>
-          <li class="nav-item">
-            <nuxt-link to="/nangor-info" class="nav-link">Nangor Info</nuxt-link>
+            <nuxt-link to="/ruang-kota" class="nav-link">Ruang Kota</nuxt-link>
           </li>
           <li class="nav-item">
             <nuxt-link to="/trifantasia" class="nav-link">Trifantasia</nuxt-link>
           </li>
           <li class="nav-item">
             <nuxt-link to="/wedding-wfi" class="nav-link">Wedding From Indonesia</nuxt-link>
-          </li>
-          <li class="nav-item">
-            <nuxt-link to="/bandung-netijen" class="nav-link">Bandung Netijen</nuxt-link>
           </li>
         </ul>
         <div>

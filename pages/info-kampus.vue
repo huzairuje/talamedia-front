@@ -1,5 +1,6 @@
 <template>
   <section class="container">
-    Test Info Unpad
+    Test Page For Info Kampus
   </section>
 </template>
+

@@ -1,5 +1,6 @@
 <template>
   <section class="container">
-    Test Nangor Info
+    Test Page For Ruang Kota
   </section>
 </template>
+
